@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime
 
 # Configuration
-BACKEND_URL = "https://cryptopulse-cryptocurrency-ai-analysis.onrender.com"
+BACKEND_URL = "https://cryptopulse-cryptocurrency-ai-analysis-dwee.onrender.com"
 
 
 # Initialize session state
